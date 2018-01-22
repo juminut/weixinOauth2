@@ -58,4 +58,9 @@
  *          )
  *      );
  *修改函数curl中的默认根证书路径
+ *
+ *微信公众号的access_token jsapi_ticket管理，支持多地服务器获取：https://github.com/juminut/weixinTokenManager
+ *微信登录，获取用户资料信息，类代码：https://github.com/juminut/weixinOauth2
+ *
+ *
  */
